@@ -9,8 +9,11 @@ Collaborated closely with stakeholders to deliver actionable recommendations for
 Demographic Classification: Analyzed customer data based on age, gender, occupation, etc.
 
 Average Income Utilization %: Calculated to identify high credit card usage likelihood.
+
 Spending Insights: Assessed spending habits and their correlations with demographics.
+
 Key Customer Segments: Identified high-value users based on demographics and spending behaviors.
+
 Credit Card Feature Recommendations: Suggested features like rewards programs, low-interest rates, and exclusive benefits.
 
 ## Tools Used
